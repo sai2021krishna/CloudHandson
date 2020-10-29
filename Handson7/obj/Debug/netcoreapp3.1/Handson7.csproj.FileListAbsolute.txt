@@ -1,0 +1,9 @@
+D:\course\Cloud handson\Handson7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\Cloud handson\Handson7\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\Cloud handson\Handson7\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\Handson7.csprojAssemblyReference.cache
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\Handson7.AssemblyInfoInputs.cache
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\Handson7.AssemblyInfo.cs
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\Handson7.RazorTargetAssemblyInfo.cache
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\staticwebassets\Handson7.StaticWebAssets.Manifest.cache
+D:\course\Cloud handson\Handson7\obj\Debug\netcoreapp3.1\staticwebassets\Handson7.StaticWebAssets.xml
